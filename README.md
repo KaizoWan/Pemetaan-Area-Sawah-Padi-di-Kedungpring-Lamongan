@@ -13,7 +13,7 @@ Untuk dapat menjalankan proyek ini dan melakukan pembuatan dataset, Anda perlu m
 - Ikuti instruksi instalasi pada layar (klik Next, setujui License Agreement, dan pilih lokasi instalasi).
 - Tunggu hingga proses instalasi selesai, lalu buka aplikasi QGIS Desktop.
 
-3. Instalasi Plugin Deepness di QGIS
+2. Instalasi Plugin Deepness di QGIS
 - Buka aplikasi QGIS yang telah terinstal.
 - Pada menu bar di bagian atas, klik menu Plugins > Manage and Install Plugins...
 - Tunggu beberapa saat hingga QGIS memuat daftar repositori plugin.
@@ -24,3 +24,10 @@ Untuk dapat menjalankan proyek ini dan melakukan pembuatan dataset, Anda perlu m
 - Tunggu hingga proses instalasi selesai. Jika muncul peringatan untuk menginstal dependensi tambahan (seperti Python packages tambahan), setujui atau ikuti instruksi yang diberikan oleh QGIS.
 - Setelah berhasil diinstal, plugin Deepness akan muncul di tab Installed atau Anda bisa mengaksesnya melalui menu bar di QGIS (biasanya muncul ikon Deepness pada toolbar).
 - Setelah tahapan di atas selesai, Sudah siap untuk memulai ekstraksi dataset menggunakan Deepness.
+
+3. Menjalankan Proyek
+- Download proyek pada repository ini.
+- Ekstrak file zip-nya lalu buka folder hasil ekstraksi.
+- Jalankan file yang bernama Kedungpring.qgz.
+- Jika sudah dibuka, maka akan muncul secara otomatis peta untuk pemetaan lahan sawahnya.
+- Jika ingin melanjutkan untuk membuat dataset, lakukan ekstraksi menggunakan plugin Deepness yang telah diinstal.
